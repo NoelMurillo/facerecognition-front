@@ -1,4 +1,4 @@
-# SmartBrain - v1
+# Frontend project
 Face recognition project with React
 
 
