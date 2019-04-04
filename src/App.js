@@ -85,7 +85,7 @@ class App extends Component {
           input: this.state.input
         })
       })
-      .then(response = response.json())
+      .then(response => response.json())
       .then(response => {
         if (response) {
           fetch('https://rocky-sierra-14798.herokuapp.com/image', {
